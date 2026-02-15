@@ -12,4 +12,8 @@ class Functions {
         }
         return a + b;
     }
+
+    int addOne(int a){
+	return a*10;
+    }
 }
